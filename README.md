@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ctronik
 - 👀 I’m interested in Software,CyberSecurity, 3D, AI and Video and Audio produtions
-- 💞️ I’m looking to collaborate on reailizing video and audio software products.
+- 💞️ I’m looking to collaborate on realizing video and audio software products.
 - 📫 How to reach me : ctronikstudio@gmail.com
 
 <!---
